@@ -26,6 +26,12 @@ with elevated privileges (using e.g. `sudo`) or add the `--user` flag like this:
 pip install --user picomc
 ```
 
+To install from source, use Git checkout, download and extract ZIP or similar, then run in that directory:
+
+```
+pip install .
+```
+
 Usage
 ---
 
